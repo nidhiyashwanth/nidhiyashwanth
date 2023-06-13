@@ -41,5 +41,3 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
 
-![Nidhi Yashwanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=nidhiyashwanth&show_icons=true&theme=transparent)
-
